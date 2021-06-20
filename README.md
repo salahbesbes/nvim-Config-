@@ -1,5 +1,8 @@
 # NVCode
 
+i just cloned this project from https://github.com/ChristianChiarulli/nvim.git
+and updated it
+
 ![NVCode pic](./utils/images/nvim.png)
 
 ## Install in one command
